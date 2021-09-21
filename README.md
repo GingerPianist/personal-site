@@ -1,12 +1,14 @@
-# personal-site 
+# 🌟 Personal site
 
-Happy to present my personal site - just a few things about me :)
+My personal CV-style page containing basic information about me :) As well as a pretty picture of me!
 
-# How to run
+# Deployment
 
-Just download the repository and open _index.html_ file in your browser.
-That's it - the html magic :-D
+[https://gingerpianist.github.io/personal-site/](https://gingerpianist.github.io/personal-site/)
 
-Or just see it deployed here: [Click me!](https://gingerpianist.github.io/personal-site/)
+![web-preview](/images/readme-image.png)
 
-Bye!
+# Made with
+
+-   HTML
+-   CSS
