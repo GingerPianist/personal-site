@@ -1,6 +1,6 @@
 # 🌟 Personal site
 
-My personal CV-style page containing basic information about me :) As well as a pretty picture of me!
+My personal CV-style page containing basic information about me as well as contact information :)
 
 # Deployment
 
